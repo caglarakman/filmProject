@@ -1,0 +1,15 @@
+.container .card.row {
+  width: 80%;
+}
+#film-cards{
+  justify-content: center;
+  
+}
+.card #film-cards .card{
+  width:90%;
+}
+
+a#clear-films{
+  margin: 0 auto;
+  width: 71%;
+}
